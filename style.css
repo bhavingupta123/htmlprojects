@@ -1,0 +1,276 @@
+.body{
+    
+}
+
+.navbar2{
+    color: whitesmoke;
+    margin-right: 20%;
+}
+
+.welcome{
+        font-size: 30px;
+    color: rebeccapurple;
+    font-weight: 700;
+    text-shadow: 3px 3px yellow;
+    text-align: center;
+}
+
+.counter {
+    padding-top: 23px;
+  display: table-cell;
+  margin:1.5%;
+  font-size:50px;
+  background-color: #F65A32;
+  width:200px;
+  border-radius: 50%;
+  height:200px;
+  vertical-align: middle;
+  text-align: center;
+    opacity: 0.95;
+ color: white;
+}
+
+
+.name{
+    font-size: 100%;
+    color: greenyellow;
+    font-weight: 300;
+    text-shadow: 1px 1px white;
+}
+.drop{
+    outline: none;
+    text-decoration: none;
+    display: block;
+}
+
+
+
+.top{
+    color: yellow;
+    
+    max-width: 100%; 
+       height: auto;; 
+       background-image: url(images/header.png);
+}
+
+.topcnt{
+    color: yellow;
+    font-size: 80%;
+    }
+
+.navbars{
+    position: fixed;
+    text-align: center;
+    
+}
+
+#my {
+        max-width: 100%; 
+    height: auto;
+}
+
+#img {
+    max-width: 100%; 
+    height: auto; 
+}
+
+.cnt{
+    color: darkblue;
+    text-align: center;
+}
+
+.cont{
+    color: blueviolet;
+    font-family: fantasy;
+    padding-top: 5%;
+}
+
+.cont2{
+    color:red;
+    font-family:sans-serif;
+    padding-top: 5%;
+    font-size: 15px;
+}
+
+.cont4{
+    color:black;
+    font-family:sans-serif;
+    padding-top: 5%;
+    font-size: 15px;
+}
+
+.cont3{
+     color:black;
+    font-family:fantasy;
+    padding-top: 5%;
+}
+
+ .imageContainer {
+       max-width: 100%; 
+    height: auto;; 
+       background-image: url(images/education.jpg);
+ }
+
+ .imagebg {
+       max-width: 100%; 
+       height: auto;; 
+       background-image: url(images/alumuni.jpg);
+     margin-top: 3%;
+ }
+
+.bottom{
+    background-image: url(images/space.jpg);
+    margin-top: 3%;
+      
+}
+
+.bottomhead{
+    color:black;
+    font-family:sans-serif;
+    font-weight: bolder;
+    text-shadow: 2px 2px blue;
+}
+
+.bottomcnt{
+    
+    font-size: 15px;
+    font-weight: bolder;
+    color: crimson;
+}
+
+
+
+
+
+
+
+
+.frombg{
+    background: url(images/formbackground.jpeg);
+    max-width: 100%;
+    height: auto;
+}
+
+
+.value{
+     
+    font-weight: 300;
+    color: red;
+}
+
+.align{
+    margin: 8%;
+}
+
+.color{
+    color: blue;
+}
+
+.input{
+    color: black;
+}
+
+.datashow{
+    color:crimson;
+    text-align: center;
+    font-size: 25px;
+}
+
+
+
+
+
+
+
+
+
+.aboutbg{
+        max-width: 100%; 
+       height: auto;
+       background-image: url(images/aboutus.jpg);
+    
+}
+.meetbg{
+     max-width: 100%; 
+       height: auto;
+    background-image: url(images/meetourteam.png);
+}
+
+.bottomhead2{
+    color:white;
+    font-family:sans-serif;
+    font-weight: bolder;
+    text-shadow: 2px 2px black;
+}
+
+.bottomcnt2{
+    
+    font-size: 15px;
+    font-weight: bolder;
+    color: yellow;
+}
+
+.teampic{
+        
+    margin: 5%;
+          max-width: 100%; 
+       height: auto;
+}
+
+.teamcnt{
+    font-size: 170%;
+    margin: 2%;
+    text-align: center;
+        color:white;
+    font-family:sans-serif;:
+}
+
+.map2{
+    color:white;
+    font-family:sans-serif;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.mapbg{
+    max-width: 100%; 
+       height: auto;
+    background-image: url(images/map.jpg);
+}
+
+.mapcnt{
+    color:white;
+    margin: 8%;
+    font-family:sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 25px;
+}
+
+
+
+
+.engbg{
+    max-width: 100%; 
+       height: auto;
+    background-image: url(images/engineering.png);    
+}
+
+.enghead{
+        margin: 8%;
+    font-family:sans-serif;
+    font-weight: bolder;
+    text-shadow: 2px 2px orange;
+    text-align: center;
+    font-size: 25px;
+    color: black;
+}
+
+.engcnt{
+        margin: 8%;
+    font-family:sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 95%;
+    color: #F7E64C;
+}
